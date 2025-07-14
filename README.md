@@ -2,8 +2,8 @@
 
 <p align="center">
   🧑‍🔬 <strong>EnvEng &amp; Math BS intern @ University&nbsp;of&nbsp;Seoul</strong><br>
-  🔍 <em>in silico toxicology&nbsp;&middot;&nbsp;NGRA&nbsp;&middot;&nbsp</em><br>
-  🛠️ Python&nbsp;&middot;&nbsp;R&nbsp;&middot;&nbsp;<br>
+  🔍 <em>in silico toxicology&nbsp;&middot;&nbsp;NGRA&nbsp;</em><br>
+  🛠️ Python&nbsp;&middot;&nbsp;R&nbsp;<br>
   🚀 Building data-driven toxicology pipelines
 </p>
 
