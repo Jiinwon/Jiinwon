@@ -3,8 +3,8 @@
 <p align="center">
   🧑‍🔬 <strong>EnvEng &amp; Math BS intern @ University&nbsp;of&nbsp;Seoul</strong><br>
   🔍 <em>in silico toxicology&nbsp;&middot;&nbsp;NGRA&nbsp;</em><br>
-  🛠️ Python&nbsp;&middot;&nbsp;R&nbsp;<br>  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&amp;logoColor=white">
+  🛠️ Python&nbsp;&middot;&nbsp;R&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&amp;logoColor=white"><br>  
   🚀 Building data-driven toxicology pipelines
 </p>
 
@@ -48,6 +48,3 @@
   <a href="https://linkedin.com/in/your-id">LinkedIn</a>
 </p>
 
-<p align="center">
-
-</p>
