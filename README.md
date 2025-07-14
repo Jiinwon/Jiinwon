@@ -37,7 +37,7 @@
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=won0316&amp;show_icons=true&amp;theme=default"
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiinwon&amp;show_icons=true&amp;theme=default"
        alt="GitHub Stats">
 </p>
 
