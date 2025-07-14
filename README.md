@@ -3,8 +3,7 @@
 <p align="center">
   🧑‍🔬 <strong>EnvEng &amp; Math BS intern @ University&nbsp;of&nbsp;Seoul</strong><br>
   🔍 <em>in silico toxicology&nbsp;&middot;&nbsp;NGRA&nbsp;</em><br>
-  🛠️ <img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white">&nbsp;&middot;&nbsp;
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&amp;logoColor=white"><br>  
+  🛠️ Python&nbsp;&middot;&nbsp;R<br>  
   🚀 Building data-driven toxicology pipelines
 </p>
 
