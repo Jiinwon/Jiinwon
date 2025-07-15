@@ -35,12 +35,6 @@
 <h2>📚 Recent Math Interests</h2>
 <p>Topology · Differential Geometry · Algebraic Topology · Algebraic Geometry</p>
 
-<h2>📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiinwon&amp;show_icons=true&amp;theme=default"
-       alt="GitHub Stats">
-</p>
-
 <h2>📫 Reach Me</h2>
 <p>
   <a href="mailto:htotu0316@gmail.com">Email</a> ｜
