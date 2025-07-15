@@ -44,6 +44,6 @@
 <h2>📫 Reach Me</h2>
 <p>
   <a href="mailto:htotu0316@gmail.com">Email</a> ｜
-  <a href="https://linkedin.com/in/your-id">LinkedIn</a>
+  <a href="www.linkedin.com/in/진원-황-529442364">LinkedIn</a>
 </p>
 
