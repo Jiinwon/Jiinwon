@@ -21,7 +21,7 @@
   <tbody>
     <tr>
       <td>2025</td>
-      <td>EDC-NGRA-BS</td>
+      <td>EDCs-NGRA</td>
       <td>PyTorch, RDKit</td>
     </tr>
     <tr>
