@@ -4,7 +4,7 @@
   🧑‍🔬 <strong>EnvEng &amp; Math BS intern @ University&nbsp;of&nbsp;Seoul</strong><br>
   🔍 <em>in silico toxicology&nbsp;&middot;&nbsp;NGRA&nbsp;</em><br>
   🛠️ Python&nbsp;&middot;&nbsp;R<br>  
-  🚀 Building data-driven toxicology pipelines and quantative adverse outcome pathway(qAOP)
+  🚀 Building toxicity prediction pipelines based on HTS data &nbsp;&middot;&nbsp; quantative adverse outcome pathway(qAOP)
 </p>
 
 <hr>
