@@ -27,7 +27,7 @@
     <tr>
       <td>2025</td>
       <td>AugmenTox</td>
-      <td>GNN, transfer learning</td>
+      <td>GNN, Transfer learning</td>
     </tr>
   </tbody>
 </table>
