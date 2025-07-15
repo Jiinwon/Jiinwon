@@ -25,9 +25,9 @@
       <td>PyTorch, RDKit</td>
     </tr>
     <tr>
-      <td>2024</td>
-      <td>Toxicity Dashboard</td>
-      <td>Streamlit, Pandas</td>
+      <td>2025</td>
+      <td>AugmenTox</td>
+      <td>GNN, transfer learning</td>
     </tr>
   </tbody>
 </table>
